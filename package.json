@@ -1,0 +1,20 @@
+{
+  "name": "apollo-server-social-network-query-only",
+  "description": "This is a demo project for it30 contest.",
+  "dependencies": {
+    "@okgrow/graphql-scalars": "0.4.2",
+    "apollo-server": "2.1.0",
+    "graphql": "14.0.2",
+    "graphql-depth-limit": "1.1.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js localhost 4000"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/graphql": "14.0.1",
+    "nodemon": "1.18.4"
+  }
+}
